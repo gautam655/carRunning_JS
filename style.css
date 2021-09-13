@@ -1,0 +1,31 @@
+#background{
+  background-image: url(back.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: auto;
+  height: 450px;
+  background-color:rgb(152, 152, 236);
+}
+#road{
+  width: auto;
+  height: 200px;
+  background-color: black;
+}
+img{
+  width: 150px;
+  padding: 10px;
+  margin-top: 20px;
+}
+#btn{
+  background-color: yellow;
+  width: 100px;
+  font-size: 30px;
+  margin-top: 40px;
+}
+#dbtn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
